@@ -1,0 +1,7 @@
+Flask==3.0.3
+PyJWT==2.10.1
+requests==2.32.4
+Werkzeug==3.0.3
+flask-cors==4.0.0
+pyotp==2.9.0
+qrcode==7.4.2

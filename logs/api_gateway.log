@@ -1,0 +1,101 @@
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/api_gateway/app.py", line 12, in <module>
+    logging.basicConfig(filename='logs/api_gateway.log', level=logging.INFO,
+  File "/usr/lib/python3.12/logging/__init__.py", line 2118, in basicConfig
+    h = FileHandler(filename, mode,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/logging/__init__.py", line 1231, in __init__
+    StreamHandler.__init__(self, self._open())
+                                 ^^^^^^^^^^^^
+  File "/usr/lib/python3.12/logging/__init__.py", line 1263, in _open
+    return open_func(self.baseFilename, self.mode,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/aptop/gui/Backend/microservices/api_gateway/logs/api_gateway.log'
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/api_gateway/app.py", line 53, in <module>
+    @app.route('/user/<path:path>', methods=['GET', 'POST', 'PUT', 'DELETE'])
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/scaffold.py", line 362, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/scaffold.py", line 47, in wrapper_func
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/app.py", line 657, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: wrapper
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/api_gateway/app.py", line 53, in <module>
+    @app.route('/user/<path:path>', methods=['GET', 'POST', 'PUT', 'DELETE'])
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/scaffold.py", line 362, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/scaffold.py", line 47, in wrapper_func
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/app.py", line 657, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: wrapper
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/api_gateway/app.py", line 53, in <module>
+    @app.route('/user/<path:path>', methods=['GET', 'POST', 'PUT', 'DELETE'])
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/scaffold.py", line 362, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/scaffold.py", line 47, in wrapper_func
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/app.py", line 657, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: wrapper
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/api_gateway/app.py", line 67, in <module>
+    @app.route('/user/<path:path>', methods=['GET', 'POST', 'PUT', 'DELETE'])
+     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/scaffold.py", line 362, in decorator
+    self.add_url_rule(rule, endpoint, f, **options)
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/scaffold.py", line 47, in wrapper_func
+    return f(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/sansio/app.py", line 657, in add_url_rule
+    raise AssertionError(
+AssertionError: View function mapping is overwriting an existing endpoint function: wrapper
+2025-07-26 09:56:39,220 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.222.217:5000
+2025-07-26 09:56:39,222 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-26 09:56:39,227 - INFO -  * Restarting with stat
+2025-07-26 09:56:39,879 - WARNING -  * Debugger is active!
+2025-07-26 09:56:39,884 - INFO -  * Debugger PIN: 117-811-034
+2025-07-26 09:57:12,359 - INFO - 127.0.0.1 - - [26/Jul/2025 09:57:12] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-07-26 09:57:12,808 - INFO - User: diego, Service: /auth/login, Status: 200, Response Time: 0.18s
+2025-07-26 09:57:12,809 - INFO - 127.0.0.1 - - [26/Jul/2025 09:57:12] "POST /auth/login HTTP/1.1" 200 -
+2025-07-26 09:57:13,336 - INFO - 127.0.0.1 - - [26/Jul/2025 09:57:13] "OPTIONS /task/Usertasks/diego HTTP/1.1" 200 -
+2025-07-26 09:57:13,720 - INFO - User: diego, Service: /task/Usertasks/diego, Status: 200, Response Time: 0.01s
+2025-07-26 09:57:13,720 - INFO - 127.0.0.1 - - [26/Jul/2025 09:57:13] "GET /task/Usertasks/diego HTTP/1.1" 200 -
+2025-07-26 10:04:27,395 - INFO -  * Detected change in '/home/aptop/gui/Backend/microservices/api_gateway/app.py', reloading
+2025-07-26 10:04:27,610 - INFO -  * Restarting with stat
+2025-07-26 10:04:44,869 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.222.217:5000
+2025-07-26 10:04:44,870 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-26 10:04:44,876 - INFO -  * Restarting with stat
+2025-07-26 10:04:45,343 - WARNING -  * Debugger is active!
+2025-07-26 10:04:45,351 - INFO -  * Debugger PIN: 117-811-034
+2025-07-26 10:04:52,237 - INFO - 127.0.0.1 - - [26/Jul/2025 10:04:52] "OPTIONS /task/Usertasks/diego HTTP/1.1" 200 -
+2025-07-26 10:04:52,525 - INFO - User: diego, IP: 127.0.0.1, Method: GET, Service: /task/Usertasks/diego, Status: 401, Response Time: 0.01s
+2025-07-26 10:04:52,526 - INFO - 127.0.0.1 - - [26/Jul/2025 10:04:52] "[31m[1mGET /task/Usertasks/diego HTTP/1.1[0m" 401 -
+2025-07-26 10:05:17,950 - INFO - 127.0.0.1 - - [26/Jul/2025 10:05:17] "OPTIONS /auth/login HTTP/1.1" 200 -
+2025-07-26 10:05:18,510 - INFO - User: diego, IP: 127.0.0.1, Method: POST, Service: /auth/login, Status: 200, Response Time: 0.21s
+2025-07-26 10:05:18,511 - INFO - 127.0.0.1 - - [26/Jul/2025 10:05:18] "POST /auth/login HTTP/1.1" 200 -
+2025-07-26 10:05:18,655 - INFO - 127.0.0.1 - - [26/Jul/2025 10:05:18] "OPTIONS /task/Usertasks/diego HTTP/1.1" 200 -
+2025-07-26 10:05:18,715 - INFO - User: diego, IP: 127.0.0.1, Method: POST, Service: /auth/login, Status: 200, Response Time: 0.29s
+2025-07-26 10:05:18,716 - INFO - 127.0.0.1 - - [26/Jul/2025 10:05:18] "POST /auth/login HTTP/1.1" 200 -
+2025-07-26 10:05:18,795 - INFO - User: diego, IP: 127.0.0.1, Method: POST, Service: /auth/login, Status: 200, Response Time: 0.22s
+2025-07-26 10:05:18,795 - INFO - 127.0.0.1 - - [26/Jul/2025 10:05:18] "POST /auth/login HTTP/1.1" 200 -
+2025-07-26 10:05:18,884 - INFO - User: diego, IP: 127.0.0.1, Method: GET, Service: /task/Usertasks/diego, Status: 200, Response Time: 0.01s
+2025-07-26 10:05:18,884 - INFO - 127.0.0.1 - - [26/Jul/2025 10:05:18] "GET /task/Usertasks/diego HTTP/1.1" 200 -
+2025-07-26 10:06:07,110 - INFO - 127.0.0.1 - - [26/Jul/2025 10:06:07] "OPTIONS /task/update_task_status/8 HTTP/1.1" 200 -
+2025-07-26 10:06:04,783 - INFO - User: diego, IP: 127.0.0.1, Method: PUT, Service: /task/update_task_status/8, Status: 200, Response Time: 0.04s
+2025-07-26 10:06:04,784 - INFO - 127.0.0.1 - - [26/Jul/2025 10:06:04] "PUT /task/update_task_status/8 HTTP/1.1" 200 -
