@@ -46,3 +46,603 @@ Press CTRL+C to quit
 127.0.0.1 - - [26/Jul/2025 10:04:52] "GET /Usertasks/diego HTTP/1.1" 401 -
 127.0.0.1 - - [26/Jul/2025 10:05:18] "GET /Usertasks/diego HTTP/1.1" 200 -
 127.0.0.1 - - [26/Jul/2025 10:06:04] "PUT /update_task_status/8 HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 787-938-698
+127.0.0.1 - - [05/Aug/2025 19:21:14] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [05/Aug/2025 19:23:11] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2025 19:23:42] "PUT /update_task_status/8 HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2025 19:26:15] "PUT /update_task_status/8 HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2025 19:26:16] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2025 19:27:40] "GET /Usertasks/diego HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 787-938-698
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 182-804-025
+127.0.0.1 - - [07/Aug/2025 19:22:53] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [07/Aug/2025 19:23:00] "PUT /update_task_status/8 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:33:15] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:35:23] "PUT /update_task_status/8 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:35:35] "PUT /update_task_status/8 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:47:58] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 03:48:39] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 03:48:47] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 03:49:19] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:51:11] "PUT /update_task_status/7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:51:21] "PUT /update_task_status/7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:51:53] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:55:30] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 03:56:24] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:58:25] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:58:57] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:11:05] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 04:19:02] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:21:56] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:23:08] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:23:39] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:25:08] "PUT /update_task_status/7 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:40:34] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 04:44:53] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 04:45:14] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:46:14] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:46:14] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:46:14] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:47:13] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:47:13] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:47:14] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:48:16] "PUT /update_task_status/10 HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 05:16:57] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 05:17:15] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 05:18:01] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 17:44:47] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 17:47:09] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 17:47:50] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 17:47:50] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 17:47:51] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 17:58:25] "GET /Usertasks/diego HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 182-804-025
+127.0.0.1 - - [08/Aug/2025 20:37:39] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:39:14] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:39:14] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:39:14] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:43:07] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 20:43:07] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 20:43:14] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 20:43:14] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 20:43:38] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:44:34] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:45:41] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:46:29] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:47:32] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:47:33] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:47:33] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 21:12:03] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [08/Aug/2025 21:12:03] "GET /Usertasks/diego HTTP/1.1" 401 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+127.0.0.1 - - [10/Aug/2025 02:54:47] "GET /Usertasks/diego HTTP/1.1" 200 -
+ * Detected change in '/home/aptop/gui/Backend/microservices/task_service/app.py', reloading
+ * Restarting with stat
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+127.0.0.1 - - [10/Aug/2025 04:32:08] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 04:32:40] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:33:11] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:33:12] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:33:14] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:33:14] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:33:14] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:33:22] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:33:22] "PUT /update_task/8 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 114, in decorated
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 403, in update_task
+    if not all(field in data for field in required_fields):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 403, in <genexpr>
+    if not all(field in data for field in required_fields):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'bool' is not iterable
+127.0.0.1 - - [10/Aug/2025 04:33:56] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:33:56] "PUT /update_task/8 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 114, in decorated
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 403, in update_task
+    if not all(field in data for field in required_fields):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 403, in <genexpr>
+    if not all(field in data for field in required_fields):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'bool' is not iterable
+127.0.0.1 - - [10/Aug/2025 04:34:04] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:26] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:27] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:28] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:28] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:28] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:28] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:29] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:29] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:29] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:29] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:29] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:29] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:30] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:34] "PUT /update_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:34:34] "PUT /update_task/8 HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 114, in decorated
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 403, in update_task
+    if not all(field in data for field in required_fields):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 403, in <genexpr>
+    if not all(field in data for field in required_fields):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'bool' is not iterable
+127.0.0.1 - - [10/Aug/2025 04:34:38] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:35:03] "DELETE /delete_task/8 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:35:03] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:35:06] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:35:14] "DELETE /delete_task/12 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:35:14] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:35:21] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:51:42] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 04:51:47] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 04:52:08] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:52:35] "PUT /update_task/11 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:52:36] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:52:58] "PUT /update_task/9 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:52:59] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:53:28] "DELETE /delete_task/7 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:53:28] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 05:06:12] "PUT /update_task/13 HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 05:06:18] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 05:06:25] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 05:06:29] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 05:06:51] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 05:36:45] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 05:37:01] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 05:44:54] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 05:45:09] "DELETE /delete_task/11 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 05:45:10] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 05:45:52] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 05:45:52] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 05:45:53] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:13:44] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 06:13:50] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 06:14:24] "POST /register_task HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 06:14:24] "POST /register_task HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 06:14:30] "POST /register_task HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 06:15:10] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:15:48] "POST /register_task HTTP/1.1" 400 -
+127.0.0.1 - - [10/Aug/2025 06:29:00] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:29:27] "POST /register_task HTTP/1.1" 400 -
+127.0.0.1 - - [10/Aug/2025 06:34:55] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:35:14] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:35:24] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:44:19] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:44:58] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:48:24] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:48:31] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:50:57] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:51:11] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:51:11] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:51:18] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:51:18] "GET /Usertasks/diego HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-755-022
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-755-022
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 815-234-829
+127.0.0.1 - - [10/Aug/2025 22:43:42] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 22:44:00] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 22:52:03] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 22:52:23] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 22:56:56] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 22:57:16] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 22:57:16] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 23:14:52] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:14:52] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:15:18] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 23:19:50] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 23:20:41] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:20:42] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:20:48] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:20:49] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:20:52] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:20:53] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:20:58] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:20:59] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:21:07] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2025 23:21:41] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 23:21:44] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:31:22] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 00:31:23] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 00:32:13] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:37:51] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 00:37:57] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 00:38:24] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:45:46] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 00:46:13] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:49:24] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:49:58] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:51:58] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 00:52:02] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 00:52:21] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:53:51] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:53:51] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:53:59] "DELETE /delete_task/15 HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:54:00] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:54:11] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:58:25] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 00:58:44] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 01:06:42] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 01:07:21] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 01:14:16] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 01:14:18] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 01:14:43] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 01:20:54] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 01:20:56] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 01:21:07] "GET /Usertasks/diego HTTP/1.1" 401 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5003
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 815-234-829
+127.0.0.1 - - [11/Aug/2025 15:14:20] "GET /Usertasks/carol HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 15:15:02] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 15:15:07] "GET /Usertasks/carol HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 15:15:07] "GET /Usertasks/carol HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 19:26:20] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 19:29:31] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 19:29:43] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 19:31:55] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 19:32:08] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 19:32:37] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 19:32:58] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 19:33:01] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 19:33:17] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 19:33:49] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:06:04] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 20:10:45] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 20:10:48] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 20:11:28] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:11:49] "DELETE /delete_task/16 HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:11:55] "DELETE /delete_task/14 HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:12:21] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:12:23] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:13:27] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:28:57] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 20:29:28] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:51:30] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 20:52:04] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:55:02] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:55:54] "DELETE /delete_task/9 HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:57:10] "GET /Usertasks/diego HTTP/1.1" 401 -
+127.0.0.1 - - [11/Aug/2025 20:57:40] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:45:41] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:45:57] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:45:59] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:47:37] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:47:59] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:48:17] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:54:21] "GET /Usertasks/manuel HTTP/1.1" 401 -
+127.0.0.1 - - [12/Aug/2025 00:55:31] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:55:39] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:58:11] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:58:28] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:59:38] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:59:45] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:59:51] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:01:14] "GET /Usertasks/manuel HTTP/1.1" 401 -
+127.0.0.1 - - [12/Aug/2025 01:01:19] "GET /Usertasks/manuel HTTP/1.1" 401 -
+127.0.0.1 - - [12/Aug/2025 01:01:38] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:03:05] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:03:18] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:03:46] "PUT /update_task/0 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:04:00] "PUT /update_task/0 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:15:15] "GET /tasks/19 HTTP/1.1" 401 -
+127.0.0.1 - - [12/Aug/2025 01:15:16] "GET /Usertasks/manuel HTTP/1.1" 401 -
+127.0.0.1 - - [12/Aug/2025 01:16:08] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:16:14] "GET /tasks/19 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:16:22] "PUT /update_task/19 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:16:22] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:16:34] "GET /tasks/19 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:16:42] "PUT /update_task/19 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:16:42] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:21:37] "GET /Usertasks/manuel HTTP/1.1" 401 -
+127.0.0.1 - - [12/Aug/2025 01:22:07] "GET /Usertasks/manuel HTTP/1.1" 401 -
+127.0.0.1 - - [12/Aug/2025 01:22:25] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:22:46] "GET /tasks/19 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:22:49] "GET /Usertasks/manuel HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:24:16] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:24:46] "GET /tasks/6 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:24:57] "PUT /update_task/6 HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:24:58] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:25:57] "GET /Usertasks/diego HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:26:32] "POST /register_task HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:26:34] "GET /Usertasks/diego HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 15, in <module>
+    client = MongoClient(MONGO_URI)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 885, in __init__
+    self._get_topology()  # type: ignore[unused-coroutine]
+    ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1752, in _get_topology
+    self._resolve_srv()
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 904, in _resolve_srv
+    res = uri_parser._parse_srv(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/uri_parser.py", line 168, in _parse_srv
+    nodes = dns_resolver.get_hosts()
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 157, in get_hosts
+    _, nodes = self._get_srv_response_and_hosts(True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 131, in _get_srv_response_and_hosts
+    results = self._resolve_uri(encapsulate_errors)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 125, in _resolve_uri
+    raise ConfigurationError(str(exc)) from None
+pymongo.errors.ConfigurationError: The DNS query name does not exist: _mongodb._tcp.cluster0.f3rw1.mongodb.net.
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 15, in <module>
+    client = MongoClient(MONGO_URI)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 885, in __init__
+    self._get_topology()  # type: ignore[unused-coroutine]
+    ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1752, in _get_topology
+    self._resolve_srv()
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 904, in _resolve_srv
+    res = uri_parser._parse_srv(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/uri_parser.py", line 168, in _parse_srv
+    nodes = dns_resolver.get_hosts()
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 157, in get_hosts
+    _, nodes = self._get_srv_response_and_hosts(True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 131, in _get_srv_response_and_hosts
+    results = self._resolve_uri(encapsulate_errors)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 125, in _resolve_uri
+    raise ConfigurationError(str(exc)) from None
+pymongo.errors.ConfigurationError: The DNS query name does not exist: _mongodb._tcp.cluster0.f3rw1.mongodb.net.
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 8, in <module>
+    from pymongo import MongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 8, in <module>
+    from pymongo import MongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 8, in <module>
+    from pymongo import MongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/task_service/app.py", line 8, in <module>
+    from pymongo import MongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.222.217:5003
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.222.217:5003
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.222.217:5003
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.222.217:5003
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.222.217:5003
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.222.217:5003
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.222.217:5003
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.222.217:5003
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://192.168.222.217:5003
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+127.0.0.1 - - [12/Aug/2025 14:36:20] "GET /Usertasks/mane HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 14:36:28] "GET /Usertasks/mane HTTP/1.1" 200 -

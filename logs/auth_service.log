@@ -46,3 +46,332 @@ Press CTRL+C to quit
 127.0.0.1 - - [26/Jul/2025 10:05:18] "POST /login HTTP/1.1" 200 -
 127.0.0.1 - - [26/Jul/2025 10:05:18] "POST /login HTTP/1.1" 200 -
 127.0.0.1 - - [26/Jul/2025 10:05:18] "POST /login HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 787-938-698
+127.0.0.1 - - [05/Aug/2025 19:23:10] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [05/Aug/2025 19:27:39] "POST /login HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 787-938-698
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 182-804-025
+127.0.0.1 - - [07/Aug/2025 19:22:51] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:33:14] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:49:18] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:55:57] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:56:16] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:56:23] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 03:58:57] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:19:00] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:23:38] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 04:45:14] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 05:16:57] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 17:47:09] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 17:58:25] "POST /login HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 182-804-025
+127.0.0.1 - - [08/Aug/2025 20:37:38] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [08/Aug/2025 20:43:38] "POST /login HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+ * Detected change in '/home/aptop/gui/Backend/microservices/auth_service/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+ * Detected change in '/home/aptop/gui/Backend/microservices/auth_service/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+127.0.0.1 - - [10/Aug/2025 02:54:45] "POST /login HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+127.0.0.1 - - [10/Aug/2025 04:32:40] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 04:52:08] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 05:06:51] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 05:44:43] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 05:44:53] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:15:10] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:28:42] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:28:59] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:34:55] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:44:18] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:44:18] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:48:23] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 06:50:56] "POST /login HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-755-022
+ * Detected change in '/home/aptop/gui/Backend/microservices/auth_service/app.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 39, in <module>
+    @app.route('/register', methods=['POST'])
+     ^^^
+NameError: name 'app' is not defined
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-755-022
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 815-234-829
+127.0.0.1 - - [10/Aug/2025 22:43:41] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 22:52:23] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 23:15:18] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2025 23:21:40] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:32:13] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:38:24] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:46:13] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:52:21] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 00:58:44] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 01:07:21] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 01:14:43] "POST /login HTTP/1.1" 200 -
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 815-234-829
+127.0.0.1 - - [11/Aug/2025 15:13:46] "POST /register HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 15:14:19] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 19:26:20] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 19:32:37] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:11:27] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:29:27] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:52:03] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:52:03] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:52:03] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:52:03] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:52:03] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:52:03] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:52:04] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:52:04] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:52:04] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [11/Aug/2025 20:57:40] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:45:01] "POST /register HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:45:40] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 00:55:30] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:01:37] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:16:08] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:22:24] "POST /login HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 01:24:16] "POST /login HTTP/1.1" 200 -
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 20, in <module>
+    client = MongoClient(MONGO_URI)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 885, in __init__
+    self._get_topology()  # type: ignore[unused-coroutine]
+    ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1752, in _get_topology
+    self._resolve_srv()
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 904, in _resolve_srv
+    res = uri_parser._parse_srv(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/uri_parser.py", line 168, in _parse_srv
+    nodes = dns_resolver.get_hosts()
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 157, in get_hosts
+    _, nodes = self._get_srv_response_and_hosts(True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 131, in _get_srv_response_and_hosts
+    results = self._resolve_uri(encapsulate_errors)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 125, in _resolve_uri
+    raise ConfigurationError(str(exc)) from None
+pymongo.errors.ConfigurationError: The DNS query name does not exist: _mongodb._tcp.cluster0.f3rw1.mongodb.net.
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 20, in <module>
+    client = MongoClient(MONGO_URI)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 885, in __init__
+    self._get_topology()  # type: ignore[unused-coroutine]
+    ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1752, in _get_topology
+    self._resolve_srv()
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 904, in _resolve_srv
+    res = uri_parser._parse_srv(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/uri_parser.py", line 168, in _parse_srv
+    nodes = dns_resolver.get_hosts()
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 157, in get_hosts
+    _, nodes = self._get_srv_response_and_hosts(True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 131, in _get_srv_response_and_hosts
+    results = self._resolve_uri(encapsulate_errors)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 125, in _resolve_uri
+    raise ConfigurationError(str(exc)) from None
+pymongo.errors.ConfigurationError: The DNS query name does not exist: _mongodb._tcp.cluster0.f3rw1.mongodb.net.
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 13, in <module>
+    from pymongo import MongoClient  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 13, in <module>
+    from pymongo import MongoClient  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 13, in <module>
+    from pymongo import MongoClient  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 13, in <module>
+    from pymongo import MongoClient  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 7, in <module>
+    import pyotp  # type: ignore
+    ^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pyotp'
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 7, in <module>
+    import pyotp  # type: ignore
+    ^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pyotp'
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 7, in <module>
+    import pyotp  # type: ignore
+    ^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pyotp'
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 7, in <module>
+    import pyotp  # type: ignore
+    ^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'pyotp'
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 6, in <module>
+    import pyotp
+ModuleNotFoundError: No module named 'pyotp'
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 7, in <module>
+    import qrcode
+ModuleNotFoundError: No module named 'qrcode'
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.222.217:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.222.217:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+127.0.0.1 - - [12/Aug/2025 14:32:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1498, in __call__
+    return self.wsgi_app(environ, start_response)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1476, in wsgi_app
+    response = self.handle_exception(e)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask_cors/extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/flask_limiter/extension.py", line 1314, in __inner
+    return cast(R, flask.current_app.ensure_sync(obj)(*a, **k))
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/auth_service/app.py", line 61, in register
+    img = qr.make_image(fill_color="black", back_color="white")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/qrcode/main.py", line 364, in make_image
+    from qrcode.image.pil import Image, PilImage
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/qrcode/image/pil.py", line 2, in <module>
+    from PIL import Image, ImageDraw
+ModuleNotFoundError: No module named 'PIL'
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.222.217:5001
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+127.0.0.1 - - [12/Aug/2025 14:35:52] "POST /register HTTP/1.1" 200 -
+127.0.0.1 - - [12/Aug/2025 14:36:19] "POST /login HTTP/1.1" 200 -

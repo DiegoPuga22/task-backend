@@ -43,6 +43,7 @@ start_service() {
     python3 app.py 2>> "$LOG_DIR/$service_name.log" &  # Solo redirige errores
     echo "$!" > "$LOG_DIR/$service_name.pid" # Guardamos el PID del proceso
     cd "$PROJECT_DIR"
+    sleep 1  # Pequeño retraso para evitar conflictos de arranque
 }
 
 # Iniciamos cada microservicio

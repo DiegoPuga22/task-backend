@@ -42,3 +42,233 @@ Press CTRL+C to quit
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 117-811-034
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 787-938-698
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 787-938-698
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 182-804-025
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 182-804-025
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 362-510-080
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-755-022
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 104-755-022
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 815-234-829
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 815-234-829
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/user_service/app.py", line 18, in <module>
+    client = MongoClient(MONGO_URI)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 885, in __init__
+    self._get_topology()  # type: ignore[unused-coroutine]
+    ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1752, in _get_topology
+    self._resolve_srv()
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 904, in _resolve_srv
+    res = uri_parser._parse_srv(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/uri_parser.py", line 168, in _parse_srv
+    nodes = dns_resolver.get_hosts()
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 157, in get_hosts
+    _, nodes = self._get_srv_response_and_hosts(True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 131, in _get_srv_response_and_hosts
+    results = self._resolve_uri(encapsulate_errors)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 125, in _resolve_uri
+    raise ConfigurationError(str(exc)) from None
+pymongo.errors.ConfigurationError: The DNS query name does not exist: _mongodb._tcp.cluster0.f3rw1.mongodb.net.
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/user_service/app.py", line 18, in <module>
+    client = MongoClient(MONGO_URI)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 885, in __init__
+    self._get_topology()  # type: ignore[unused-coroutine]
+    ^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 1752, in _get_topology
+    self._resolve_srv()
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/mongo_client.py", line 904, in _resolve_srv
+    res = uri_parser._parse_srv(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/uri_parser.py", line 168, in _parse_srv
+    nodes = dns_resolver.get_hosts()
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 157, in get_hosts
+    _, nodes = self._get_srv_response_and_hosts(True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 131, in _get_srv_response_and_hosts
+    results = self._resolve_uri(encapsulate_errors)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/synchronous/srv_resolver.py", line 125, in _resolve_uri
+    raise ConfigurationError(str(exc)) from None
+pymongo.errors.ConfigurationError: The DNS query name does not exist: _mongodb._tcp.cluster0.f3rw1.mongodb.net.
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/user_service/app.py", line 6, in <module>
+    from pymongo import MongoClient  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/user_service/app.py", line 6, in <module>
+    from pymongo import MongoClient  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/user_service/app.py", line 6, in <module>
+    from pymongo import MongoClient  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+Traceback (most recent call last):
+  File "/home/aptop/gui/Backend/microservices/user_service/app.py", line 6, in <module>
+    from pymongo import MongoClient  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/__init__.py", line 91, in <module>
+    from pymongo.asynchronous.mongo_client import AsyncMongoClient
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/asynchronous/mongo_client.py", line 64, in <module>
+    from pymongo import _csot, common, helpers_shared, periodic_executor
+  File "/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/pymongo/common.py", line 39, in <module>
+    from bson import SON
+ImportError: cannot import name 'SON' from 'bson' (/home/aptop/gui/Backend/microservices/venv/lib/python3.12/site-packages/bson/__init__.py)
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.222.217:5002
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.222.217:5002
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.222.217:5002
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.222.217:5002
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.222.217:5002
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.222.217:5002
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.222.217:5002
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.222.217:5002
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.222.217:5002
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 653-245-320
