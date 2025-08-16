@@ -8,7 +8,7 @@ from pymongo import MongoClient
 from bson import ObjectId
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": ["https://task-frontend-beta-five.vercel.app"], "allow_headers": ["Content-Type", "Authorization"], "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"]}})
+CORS(app)
 
 # Configuración de MongoDB
 client = MongoClient(os.environ.get('MONGO_URI', 'mongodb+srv://2023171060:85df2Bs9aVBi6VpH@cluster0.qyf53xx.mongodb.net/users_db?retryWrites=true&w=majority&appName=Cluster0'))

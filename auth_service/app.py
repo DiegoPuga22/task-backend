@@ -15,7 +15,7 @@ import os  # Agregado para variables de entorno
 import logging
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": ["https://task-frontend-beta-five.vercel.app"], "allow_headers": ["Content-Type", "Authorization"], "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"]}})
+CORS(app)
 
 # Configuración del logger
 logging.basicConfig(
