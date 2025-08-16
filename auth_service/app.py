@@ -1,19 +1,29 @@
 from flask import Flask, jsonify, request
 import jwt
-from flask_cors import CORS
+from flask_cors import CORS  # type: ignore
 import datetime
+import sqlite3
 from werkzeug.security import generate_password_hash, check_password_hash
-import pyotp
-import qrcode
+import pyotp  # type: ignore
+import qrcode  # type: ignore
 from io import BytesIO
 import base64
-from flask_limiter import Limiter
-from flask_limiter.util import get_remote_address
-from pymongo import MongoClient
-import os
+from flask_limiter import Limiter  # type: ignore
+from flask_limiter.util import get_remote_address  # type: ignore
+from pymongo import MongoClient  # type: ignore
+import os  # Agregado para variables de entorno
+import logging
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": ["https://task-frontend-beta-five.vercel.app"], "allow_headers": ["Content-Type", "Authorization"], "methods": ["GET", "POST", "PUT", "DELETE", "OPTIONS"]}})
+
+# Configuración del logger
+logging.basicConfig(
+    filename='auth_service.log',
+    level=logging.DEBUG,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger('auth_service')
 
 SECRET_KEY = os.environ.get('SECRET_KEY', 'QHZ/5n4Y+AugECPP12uVY/9mWZ14nqEfdiBB8Jo6//g')
 
